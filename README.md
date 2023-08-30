@@ -7,4 +7,4 @@ IOS - 각 파일은 다른 프로젝트입니다
 
 # dice app
 ![Simulator Screen Recording - iPhone 14 - 2023-08-30 at 23 09 44](https://github.com/PostDo/IOS/assets/143489897/794443e8-ff7e-4a4f-b491-27495bd2452a)
-![Uploading 스크린샷 2023-08-30 오후 11.09.28.png…]()
+
