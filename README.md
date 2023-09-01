@@ -10,7 +10,7 @@ IOS - 각 파일은 다른 프로젝트입니다
 
 # Calculator-layout
 before <br>
-<img width="612" alt="스크린샷 2023-09-01 오후 9 25 46" src="https://github.com/PostDo/IOS/assets/143489897/324ed2be-c43e-4b75-ab17-51ec9542f49f"> <br>
-after
+<img width="612" alt="스크린샷 2023-09-01 오후 9 25 46" src="https://github.com/PostDo/IOS/assets/143489897/324ed2be-c43e-4b75-ab17-51ec9542f49f"> <br><br>
+after <br>
 <img width="293" alt="스크린샷 2023-09-01 오후 9 24 02" src="https://github.com/PostDo/IOS/assets/143489897/1010641b-cf90-4498-877c-042adfc5f283">
 <img width="606" alt="스크린샷 2023-09-01 오후 9 24 20" src="https://github.com/PostDo/IOS/assets/143489897/9291d8f7-ca54-427d-b438-6bf645c3e4e3">
